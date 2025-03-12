@@ -1,1 +1,1 @@
-# Clash-of-the-Paradigms
+# Clash of the Paradigms
