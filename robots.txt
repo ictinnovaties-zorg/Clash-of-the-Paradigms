@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ictinnovaties-zorg.github.io/Clash-of-the-Paradigms/sitemap.xml
+Sitemap: https://clashoftheparadigms.nl/sitemap.xml
